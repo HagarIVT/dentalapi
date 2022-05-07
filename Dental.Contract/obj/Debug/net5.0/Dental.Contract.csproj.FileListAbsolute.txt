@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\Dental\Dental.Contract\bin\Debug\net5.0\Dental.Contract.deps.json
+C:\Users\DELL\source\repos\Dental\Dental.Contract\bin\Debug\net5.0\Dental.Contract.dll
+C:\Users\DELL\source\repos\Dental\Dental.Contract\bin\Debug\net5.0\Dental.Contract.pdb
+C:\Users\DELL\source\repos\Dental\Dental.Contract\obj\Debug\net5.0\Dental.Contract.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Dental\Dental.Contract\obj\Debug\net5.0\Dental.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Dental\Dental.Contract\obj\Debug\net5.0\Dental.Contract.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Dental\Dental.Contract\obj\Debug\net5.0\Dental.Contract.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Dental\Dental.Contract\obj\Debug\net5.0\Dental.Contract.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Dental\Dental.Contract\obj\Debug\net5.0\Dental.Contract.dll
+C:\Users\DELL\source\repos\Dental\Dental.Contract\obj\Debug\net5.0\refint\Dental.Contract.dll
+C:\Users\DELL\source\repos\Dental\Dental.Contract\obj\Debug\net5.0\Dental.Contract.pdb
+C:\Users\DELL\source\repos\Dental\Dental.Contract\obj\Debug\net5.0\ref\Dental.Contract.dll

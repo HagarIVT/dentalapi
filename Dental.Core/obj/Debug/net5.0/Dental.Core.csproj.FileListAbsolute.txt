@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Dental\Dental.Core\bin\Debug\net5.0\Dental.Core.deps.json
+C:\Users\DELL\source\repos\Dental\Dental.Core\bin\Debug\net5.0\Dental.Core.dll
+C:\Users\DELL\source\repos\Dental\Dental.Core\bin\Debug\net5.0\Dental.Core.pdb
+C:\Users\DELL\source\repos\Dental\Dental.Core\obj\Debug\net5.0\Dental.Core.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Dental\Dental.Core\obj\Debug\net5.0\Dental.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Dental\Dental.Core\obj\Debug\net5.0\Dental.Core.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Dental\Dental.Core\obj\Debug\net5.0\Dental.Core.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Dental\Dental.Core\obj\Debug\net5.0\Dental.Core.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Dental\Dental.Core\obj\Debug\net5.0\Dental.Core.dll
+C:\Users\DELL\source\repos\Dental\Dental.Core\obj\Debug\net5.0\refint\Dental.Core.dll
+C:\Users\DELL\source\repos\Dental\Dental.Core\obj\Debug\net5.0\Dental.Core.pdb
+C:\Users\DELL\source\repos\Dental\Dental.Core\obj\Debug\net5.0\ref\Dental.Core.dll
+C:\Users\DELL\source\repos\Dental\Dental.Core\bin\Debug\net5.0\Dental.Contract.dll
+C:\Users\DELL\source\repos\Dental\Dental.Core\bin\Debug\net5.0\Dental.Contract.pdb
+C:\Users\DELL\source\repos\Dental\Dental.Core\obj\Debug\net5.0\Dental.Core.csproj.CopyComplete

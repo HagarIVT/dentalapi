@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dental.Api", "Dental\Dental.Api.csproj", "{D34CA573-E30B-44B9-880F-1B4E588A8D5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dental.Core", "Dental.Core\Dental.Core.csproj", "{56E8BC3B-B49C-4C7A-A385-978953CD7265}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dental.Infrastructure", "Dental.Infrastructure\Dental.Infrastructure.csproj", "{333465C7-4B7B-4AAD-A595-427009570DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dental.Contract", "Dental.Contract\Dental.Contract.csproj", "{E8A3A64D-3005-46E9-8A1D-8C279DE35607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D34CA573-E30B-44B9-880F-1B4E588A8D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34CA573-E30B-44B9-880F-1B4E588A8D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34CA573-E30B-44B9-880F-1B4E588A8D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34CA573-E30B-44B9-880F-1B4E588A8D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56E8BC3B-B49C-4C7A-A385-978953CD7265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E8BC3B-B49C-4C7A-A385-978953CD7265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E8BC3B-B49C-4C7A-A385-978953CD7265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E8BC3B-B49C-4C7A-A385-978953CD7265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{333465C7-4B7B-4AAD-A595-427009570DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333465C7-4B7B-4AAD-A595-427009570DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333465C7-4B7B-4AAD-A595-427009570DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333465C7-4B7B-4AAD-A595-427009570DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8A3A64D-3005-46E9-8A1D-8C279DE35607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A3A64D-3005-46E9-8A1D-8C279DE35607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A3A64D-3005-46E9-8A1D-8C279DE35607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A3A64D-3005-46E9-8A1D-8C279DE35607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA75B09A-39B6-48C7-BA8C-E2EC039C1ACB}
+	EndGlobalSection
+EndGlobal
